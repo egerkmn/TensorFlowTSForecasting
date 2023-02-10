@@ -11,4 +11,5 @@ We will go through 5 steps:
 5) Model Improvement with Date Information Addition: Adding date information to improve the model results
 
 More details are given in the Jupyter Notebook.
+
 Data can be provided here: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
